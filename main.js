@@ -33,9 +33,9 @@ observer.observe(formulaire);
 
 //slider
 const slide = [
-    "images/Lettre-de-recommandation-Estelle-1.jpeg",
-    "images/lettre-de-recommandation-Estelle-2.jpeg", 
-    "images/IMG_20200410_170901.jpg"];
+    "images/Lettre-de-recommandation-1.jpeg",
+    "images/lettre-de-recommandation-2.jpeg", 
+    "images/lettre-de-recommandation-3.jpg"];
 let numero = 0;
 
 function ChangeSlide(sens) {
